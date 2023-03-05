@@ -1,7 +1,7 @@
 ------------------------
 HOW TO COMPILE AND RUN
 ------------------------
-Compile: g++ -std=c++17 Player.cpp Customer.cpp Critic.cpp Kitchen.cpp Table.cpp Map.cpp gameDriver.cpp -o play.out
+Compile: g++ -std=c++17 Player.cpp Customer.cpp Critic.cpp Kitchen.cpp Table.cpp Map.cpp gameDriver.cpp -o play.out\n
 Run: ./play.out
 
 DEPENDENCIES
