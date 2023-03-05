@@ -13,13 +13,14 @@ files in order to compile.
 
 SUBMISSION INFORMATION
 ------------------------
-CSCI1300 Fall 2022 Project 3
-Author: Mae Chen and Vanessa Senethong
-Mae Chen Recitation: 205 - Maria Valentini
-Vanessa Senethong Recitation: 102 - Ojasvi Bhalerao
+CSCI1300 Fall 2022 Project 3  
+Author: Mae Chen and Vanessa Senethong  
+Mae Chen Recitation: 205 - Maria Valentini  
+Vanessa Senethong Recitation: 102 - Ojasvi Bhalerao  
 Date: Dec 1, 2022
 
 ABOUT THIS PROJECT
 ------------------------
-This project is developing an alien restraunt game. Play to find out more!
-(Please be mindful of the movement, do not spam the WASD and Enter keys.)
+This project is developing an alien restraunt game. Play to find out more!  
+(Please be mindful of the movement, do not spam the WASD and Enter keys.)  
+Play with terminal as full screen for best user experience.
