@@ -21,6 +21,6 @@ Date: Dec 1, 2022
 
 ABOUT THIS PROJECT
 ------------------------
-This project is developing an alien restraunt game. Play to find out more!  
+This project is developing an alien restaurant game. Play to find out more!  
 (Please be mindful of the movement, do not spam the WASD and Enter keys.)  
 Play with terminal as full screen for best user experience.
